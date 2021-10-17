@@ -5,6 +5,7 @@ Neste Github eu registro minhas experiências com desenvolvimento para quem cair
 
   #### Tecnologias que fazem parte da minha vida
  <div align="left">
+    <a href="https://github.com/Lipe1994">
     <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
     <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
