@@ -7,17 +7,14 @@ Neste Github eu registro minhas experiências com desenvolvimento para quem cair
 <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lipe16&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=false"/>-->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lipe1994&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
-<!--
-**Lipe1994/Lipe1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+  #### Tecnologias que fazem parte da minha vida
+ <div align="left">
+    <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+    <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+    <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+    <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />  
+ </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
