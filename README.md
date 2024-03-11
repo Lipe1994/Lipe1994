@@ -1,5 +1,5 @@
 ### Olá sou Filipe Ferreira!!! 
-###### Ipatinga-MG
+###### De Ipatinga-MG
 
 Neste Github eu registro minhas experiências com desenvolvimento para quem cair de paraquedas  e para eu mesmo como ferramenta de consulta.
 
